@@ -45,8 +45,13 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
-
-  qr_flutter:
+  qr_code_scanner:
+  url_launcher:
+  webview_flutter: ^3.0.4
+  firebase_core: ^1.17.1
+  firebase_database: ^9.0.15
+  cloud_firestore: ^3.1.17
+  shared_preferences: 
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

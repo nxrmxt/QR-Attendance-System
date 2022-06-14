@@ -46,7 +46,7 @@ class _TeacherHomePageState extends State<TeacherHomePage> {
         body: TabBarView(
           children: [
             Tab1(),
-            Tab2(),
+            Tab3(),
           ],
         ),
       ),
